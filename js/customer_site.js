@@ -1,7 +1,7 @@
 const CUSTOMER_SITES = {
     qiqi: {
-        api: 'https://www.qiqidys.com/api.php/provide/vod',
-        name: '七七资源',
+        api: 'https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8',
+        name: '光速资源',
     }
 };
 
